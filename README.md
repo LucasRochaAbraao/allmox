@@ -19,23 +19,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/LucasRochaAbraao/almox_quick">
+  <a href="https://github.com/LucasRochaAbraao/allmox">
     <img src="https://i.ibb.co/TgR5QCx/iconfinder-Warehouse-3992927.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ALMOX_QUICK</h3>
+  <h3 align="center">ALLMOX</h3>
 
   <p align="center">
     App do século XI para seu almox
     <br />
-    <!-- <a href="https://github.com/LucasRochaAbraao/almox_quick"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/LucasRochaAbraao/allmox"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://github.com/LucasRochaAbraao/almox_quick">Repo</a>
+    <a href="https://github.com/LucasRochaAbraao/allmox">Repo</a>
     ·
-    <a href="https://github.com/LucasRochaAbraao/almox_quick/issues">Reportar Bug</a>
+    <a href="https://github.com/LucasRochaAbraao/allmox/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/LucasRochaAbraao/almox_quick/issues">Solicitar Recurso</a>
+    <a href="https://github.com/LucasRochaAbraao/allmox/issues">Solicitar Recurso</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@ Quando pronto, o client estará disponível na playstore para Android. Segue ins
 
 1. Clone o repositório
 ```
-git clone https://github.com/LucasRochaAbraao/almox_quick.git
+git clone https://github.com/LucasRochaAbraao/allmox.git
 ```
 2. Atualizarei quando pronto...
 
@@ -88,7 +88,7 @@ git clone https://github.com/LucasRochaAbraao/almox_quick.git
 <!-- ROADMAP -->
 ## Roadmap
 
-Veja [open issues](https://github.com/LucasRochaAbraao/almox_quick/issues) para uma lista de recursos propostos. (e problemas conhecidos).
+Veja [open issues](https://github.com/LucasRochaAbraao/allmox/issues) para uma lista de recursos propostos. (e problemas conhecidos).
 
 
 <!-- Contribuir -->
@@ -116,7 +116,7 @@ Distribuido sob uma licença "GNU GENERAL PUBLIC LICENSE". Veja `LICENSE` para m
 
 Lucas Rocha Abraão - [@lucas_rocha_93](https://twitter.com/lucas_rocha_93) - lucasrabraao@gmail.com
 
-Link do projeto: [https://github.com/LucasRochaAbraao/almox_quick](https://github.com/LucasRochaAbraao/almox_quick)
+Link do projeto: [https://github.com/LucasRochaAbraao/allmox](https://github.com/LucasRochaAbraao/allmox)
 
 
 
@@ -133,16 +133,16 @@ Link do projeto: [https://github.com/LucasRochaAbraao/almox_quick](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
-[contributors-url]: https://github.com/LucasRochaAbraao/almox_quick/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
-[forks-url]: https://github.com/LucasRochaAbraao/almox_quick/network/members
-[stars-shield]: https://img.shields.io/github/stars/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
-[stars-url]: https://github.com/LucasRochaAbraao/almox_quick/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
-[issues-url]: https://github.com/LucasRochaAbraao/almox_quick/issues
-[license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
-[license-url]: https://github.com/LucasRochaAbraao/almox_quick/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/LucasRochaAbraao/allmox.svg?style=for-the-badge
+[contributors-url]: https://github.com/LucasRochaAbraao/allmox/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LucasRochaAbraao/allmox.svg?style=for-the-badge
+[forks-url]: https://github.com/LucasRochaAbraao/allmox/network/members
+[stars-shield]: https://img.shields.io/github/stars/LucasRochaAbraao/allmox.svg?style=for-the-badge
+[stars-url]: https://github.com/LucasRochaAbraao/allmox/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LucasRochaAbraao/allmox.svg?style=for-the-badge
+[issues-url]: https://github.com/LucasRochaAbraao/allmox/issues
+[license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/allmox.svg?style=for-the-badge
+[license-url]: https://github.com/LucasRochaAbraao/allmox/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/LucasRochaAbraao
 [product-screenshot]: images/screenshot.png
