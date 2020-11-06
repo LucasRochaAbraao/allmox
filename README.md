@@ -133,16 +133,16 @@ Link do projeto: [https://github.com/LucasRochaAbraao/almox_quick](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/LucasRochaAbraao/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/LucasRochaAbraao/almox_quick.svg?style=flat
 [contributors-url]: https://github.com/LucasRochaAbraao/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LucasRochaAbraao/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/LucasRochaAbraao/repo.svg?style=flat
 [forks-url]: https://github.com/LucasRochaAbraao/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/LucasRochaAbraao/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/LucasRochaAbraao/repo.svg?style=flat
 [stars-url]: https://github.com/LucasRochaAbraao/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LucasRochaAbraao/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/LucasRochaAbraao/repo.svg?style=flat
 [issues-url]: https://github.com/LucasRochaAbraao/repo/issues
-[license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/repo.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/repo.svg?style=flat
 [license-url]: https://github.com/LucasRochaAbraao/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/LucasRochaAbraao
 [product-screenshot]: images/screenshot.png
