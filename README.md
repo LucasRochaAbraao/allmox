@@ -45,7 +45,7 @@
 ## Índice
 
 * [Sobre o Projeto](#sobre-o-projeto)
-  * [Construido Com](#feito-com)
+  * [Construido Com](#construido-com)
 * [Como Começar](#como-começar)
   * [Pré Requisitos](#pre-requisitos)
   * [Instalação](#instalação)
@@ -66,8 +66,7 @@
 Atualmente, na Quick Fibra, não temos um sistema de gestão de almoxarifado que nos contenta. Por isso, foi passada a missão de desenvolver um de acordo com as necessidades.
 
 
-### Construido Com
-(em construção)
+### Construido Com (em construção)
 
 * `Python 3`
 * `Django 3`
