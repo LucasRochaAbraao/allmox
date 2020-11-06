@@ -56,7 +56,7 @@
 <!-- Sobre o Projeto -->
 ## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![ALLMOX][product-screenshot]](https://example.com)
 
 Atualmente, na Quick Fibra, não temos um sistema de gestão de almoxarifado que nos contenta. Por isso, foi passada a missão de desenvolver um de acordo com as necessidades.
 
