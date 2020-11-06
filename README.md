@@ -49,8 +49,8 @@
 * [Instalação](#instalação)
 * [Roadmap](#roadmap)
 * [Contribuir](#contribuir)
-* [Licença](#license)
-* [Contato](#Contato)
+* [Licença](#licença)
+* [Contato](#contato)
 
 
 <!-- Sobre o Projeto -->
