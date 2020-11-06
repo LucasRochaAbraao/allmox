@@ -133,16 +133,16 @@ Link do projeto: [https://github.com/LucasRochaAbraao/almox_quick](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/LucasRochaAbraao/almox_quick.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
 [contributors-url]: https://github.com/LucasRochaAbraao/almox_quick/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LucasRochaAbraao/almox_quick.svg?style=flat
+[forks-shield]: https://img.shields.io/github/forks/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
 [forks-url]: https://github.com/LucasRochaAbraao/almox_quick/network/members
-[stars-shield]: https://img.shields.io/github/stars/LucasRochaAbraao/almox_quick.svg?style=flat
+[stars-shield]: https://img.shields.io/github/stars/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
 [stars-url]: https://github.com/LucasRochaAbraao/almox_quick/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LucasRochaAbraao/almox_quick.svg?style=flat
+[issues-shield]: https://img.shields.io/github/issues/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
 [issues-url]: https://github.com/LucasRochaAbraao/almox_quick/issues
-[license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/almox_quick.svg?style=flat
+[license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/almox_quick.svg?style=for-the-badge
 [license-url]: https://github.com/LucasRochaAbraao/almox_quick/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/LucasRochaAbraao
 [product-screenshot]: images/screenshot.png
