@@ -144,5 +144,5 @@ Link do projeto: [https://github.com/LucasRochaAbraao/allmox](https://github.com
 [license-shield]: https://img.shields.io/github/license/LucasRochaAbraao/allmox.svg?style=for-the-badge
 [license-url]: https://github.com/LucasRochaAbraao/allmox/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/LucasRochaAbraao
+[linkedin-url]: https://www.linkedin.com/in/lucas-rocha-abra%C3%A3o-a8907772/
 [product-screenshot]: images/screenshot.png
