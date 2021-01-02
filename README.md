@@ -46,7 +46,6 @@
 
 * [Sobre o Projeto](#sobre-o-projeto)
   * [Construido Com](#construido-com)
-* [Instalação](#instalação)
 * [Roadmap](#roadmap)
 * [Contribuir](#contribuir)
 * [Licença](#licença)

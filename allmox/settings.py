@@ -12,21 +12,28 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 import os
 from pathlib import Path
-
 from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-dotenv_path = BASE_DIR / '.env'
-load_dotenv()
-SECRET_KEY = os.environ.get('SECRET_KEY')
+import environ
+env_root = environ.Path(__file__) - 3  # get root of the project
+print(env_root)
+env = environ.Env()
+environ.Env.read_env()  # reading .env file
+
+SITE_ROOT = env_root()
+DEBUG = env.bool('DEBUG', default=False)
+TEMPLATE_DEBUG = DEBUG
+SECRET_KEY = env.str('SECRET_KEY')
+
+DATABASES = {'default': env.db('DATABASE_URL')}
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
 
 ALLOWED_HOSTS = []
 
@@ -76,12 +83,12 @@ WSGI_APPLICATION = 'allmox.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.sqlite3',
+#        'NAME': BASE_DIR / 'db.sqlite3',
+#    }
+#}
 
 
 # Password validation
@@ -120,4 +127,10 @@ USE_TZ = False
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
-STATIC_URL = '/static/'
+#public_root = env_root.path('public/')
+#MEDIA_ROOT = public_root('media')
+#MEDIA_URL = env.str('MEDIA_URL', default='media/')
+#STATIC_ROOT = public_root('static')
+#STATIC_URL = env.str('STATIC_URL', default='static/')
+
+STATIC_URL = env.str('STATIC_URL', default='/static/')
