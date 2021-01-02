@@ -66,20 +66,7 @@ Atualmente, na Quick Fibra, não temos um sistema de gestão de almoxarifado que
 
 * `Python 3`
 * `Django 3`
-* `Flutter`
-
-
-
-## Instalação
-
-Quando pronto, o client estará disponível na playstore para Android. Segue instruções para instalar o servidor:
-
-1. Clone o repositório
-```
-git clone https://github.com/LucasRochaAbraao/allmox.git
-```
-2. Atualizarei quando pronto...
-
+<!-- * `Flutter` -->
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -93,7 +80,7 @@ Veja [open issues](https://github.com/LucasRochaAbraao/allmox/issues) para uma l
 Contribuição é o que faz a comunidade open source um lugar excelente para aprender, inspirar e criar. Quaisquer contribuições que você fizer será apreciada!
 
 1. Fork o projeto
-2. Crie sua brance de um recurso qualquer (`git checkout -b recurso/RecursoIncrivel`)
+2. Crie sua Branch de um recurso qualquer (`git checkout -b recurso/RecursoIncrivel`)
 3. Commit suas mudanças (`git commit -m 'Adicionei algum RecursoIncrivel'`)
 4. Push o Branch (`git push origin recurso/RecursoIncrivel`)
 5. Abra um Pull Request

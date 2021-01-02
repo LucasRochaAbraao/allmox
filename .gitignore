@@ -5,3 +5,4 @@ images/
 .vscode
 *.pyc
 *.db
+db.sqlite3
