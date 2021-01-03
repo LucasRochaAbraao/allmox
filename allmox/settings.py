@@ -12,14 +12,12 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 import os
 from pathlib import Path
-from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 import environ
 env_root = environ.Path(__file__) - 3  # get root of the project
-print(env_root)
 env = environ.Env()
 environ.Env.read_env()  # reading .env file
 
@@ -28,15 +26,12 @@ DEBUG = env.bool('DEBUG', default=False)
 TEMPLATE_DEBUG = DEBUG
 SECRET_KEY = env.str('SECRET_KEY')
 
-DATABASES = {'default': env.db('DATABASE_URL')}
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
@@ -79,7 +74,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'allmox.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
@@ -89,7 +83,18 @@ WSGI_APPLICATION = 'allmox.wsgi.application'
 #        'NAME': BASE_DIR / 'db.sqlite3',
 #    }
 #}
-
+DATABASES = {
+    'default': {
+        'ENGINE': 'djongo',
+        'CLIENT': {
+            'name': env('DATABASE_NAME'),
+            'host': env('DATABASE_URL'),
+            'username': env('DATABASE_USERNAME'),
+            'password': env('DATABASE_PASSWORD'),
+            'authMechanism': 'SCRAM-SHA-1',
+        },
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
